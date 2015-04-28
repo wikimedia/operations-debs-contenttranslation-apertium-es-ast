@@ -1,0 +1,11 @@
+apertium-es-ast (1.1.0~r60158-1) trusty; urgency=low
+
+  [ Tino Didriksen ]
+  * Initial release
+  * No significant changes in svn since tarball, so taking directly from svn
+
+  [ Kartik Mistry ]
+  * Fixed dependencies.
+  * Rebuilt for Trusty.
+
+ -- Kartik Mistry <kartik@debian.org>  Tue, 28 Apr 2015 13:32:24 +0530
